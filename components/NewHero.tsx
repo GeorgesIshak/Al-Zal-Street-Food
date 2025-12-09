@@ -8,7 +8,7 @@ export default function Hero() {
       id="hero"
       className="relative flex items-center justify-center bg-cover bg-center pt-20"
       style={{
-        backgroundImage: "url('/new.jpeg')",
+        backgroundImage: "url('/food-banner.jpg')",
         backgroundAttachment: "fixed",
         minHeight: "100vh",
       }}
